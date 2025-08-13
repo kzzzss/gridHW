@@ -1,0 +1,70 @@
+.container {
+   
+}
+
+.head {
+    font-size: 48px;
+    font-weight: 500;
+    line-height: 60px;
+    color: #2E363E;
+    padding: 20px 370px 80px 464px;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns:380px 380px 380px;
+    grid-template-rows:582px 582px 582px;
+    gap: 20px;
+    padding: 140px 370px 20px 370px;
+}
+
+.block1,
+.block2,
+.block3,
+.block4,
+.block5,
+.block6,
+.block7,
+.block8,
+.block8 {
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    border: 1px solid #F2F6FA;
+}
+
+.text1 {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 143%;
+    padding: 50px 89px 12px 44px;
+    color: #2E363E;
+}
+
+.text2 {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 150%;
+    color: #2E363E;
+    padding: 0px 96px 24px 44px;
+}
+
+.price {
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 150%;
+    color: #434B53;
+    padding: 0px 228px 14px 44px;
+}
+
+.btn {
+    padding: 20px 40px 20px 40px;
+    color: #2E363E;
+    background-color: #FED84C;
+    border-radius: 8px;
+    border: none;
+    margin-left: 44px;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 152%;
+
+}
